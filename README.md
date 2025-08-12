@@ -8,6 +8,12 @@ Required libiaries
 
 2.Graphviz
 
+-------------------
+Installation
+
+pip install scikit-learn graphviz
+
+-----------------------------
 
 Data Cleaning Summary:
 --------------------------------------------------------
