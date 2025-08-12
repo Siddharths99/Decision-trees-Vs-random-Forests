@@ -15,3 +15,8 @@ Decision Tree Classification Report:
 --------------------------------------------------------
 Random Forest Accuracy: 0.77
 Random Forest Classification Report:
+-------------------
+Cross-validation Accuracy (Decision Tree): 0.7833
+Cross-validation Accuracy (Random Forest): 0.8300
+
+.Decision Tree performed better on the test set
