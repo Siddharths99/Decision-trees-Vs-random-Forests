@@ -26,7 +26,10 @@ Decision Tree Accuracy: 0.80
 
 Random Forest Accuracy: 0.77
 
+---------------------------------------
+
 Cross-validation Accuracy (Decision Tree): 0.7833
+
 Cross-validation Accuracy (Random Forest): 0.8300
 
 --------------------------------------------------
