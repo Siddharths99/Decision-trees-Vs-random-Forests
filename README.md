@@ -33,4 +33,6 @@ Random Forest Classification Report:
 Cross-validation Accuracy (Decision Tree): 0.7833
 Cross-validation Accuracy (Random Forest): 0.8300
 
-.Decision Tree performed better on the test set
+--------------------------------------------------
+✅ Conclusion:
+In this run, the Decision Tree model performed slightly better than the Random Forest model, achieving 3% higher accuracy and more balanced class metrics
