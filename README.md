@@ -24,11 +24,8 @@ Rows after removing unknown 'thal': 300
 --------------------------------------------------------
 Decision Tree Accuracy: 0.80
 
-Decision Tree Classification Report:
---------------------------------------------------------
 Random Forest Accuracy: 0.77
 
-Random Forest Classification Report:
 -------------------
 Cross-validation Accuracy (Decision Tree): 0.7833
 Cross-validation Accuracy (Random Forest): 0.8300
