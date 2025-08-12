@@ -18,6 +18,7 @@ pip install scikit-learn graphviz
 Data Cleaning Summary:
 --------------------------------------------------------
 Rows after removing duplicates: 302
+
 Rows after removing unknown 'thal': 300
 
 --------------------------------------------------------
