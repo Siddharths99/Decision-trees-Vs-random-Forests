@@ -17,7 +17,7 @@ pip install scikit-learn graphviz
 
 Data Cleaning Summary:
 
-It is clean data only duplicates where removed when loading it
+It is clean data set only duplicates where removed when loading it.
 
 Rows after removing duplicates: 302
 
@@ -36,4 +36,4 @@ Cross-validation Accuracy (Random Forest): 0.8300
 
 --------------------------------------------------
 ✅ Conclusion:
-In this run, the Decision Tree model performed slightly better than the Random Forest model, achieving 3% higher accuracy and more balanced class metrics
+In this run, the Decision Tree model performed slightly better than the Random Forest model, achieving 3% higher accuracy and more balanced class metrics.
