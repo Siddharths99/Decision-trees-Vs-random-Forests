@@ -4,6 +4,9 @@ Heart Disease Prediction – Decision Tree & Random Forest
 
 Required libiaries
 --------------------------
+Scikit-learn
+Graphviz
+
 
 Data Cleaning Summary:
 --------------------------------------------------------
